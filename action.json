@@ -4,7 +4,7 @@
         "description": "Default Welcome Intent",
         "name": "MAIN",
         "fulfillment": {
-          "conversationName": "projectName"
+          "conversationName": "Kushlie2"
         },
         "intent": {
           "name": "actions.intent.MAIN",
@@ -15,9 +15,9 @@
       }
     ],
     "conversations": {
-      "projectName": {
-        "name": "projectName",
-        "url": "thisIsTheURLForYourRESTAPI"
+      "Kushlie2": {
+        "name": "Kushlie2",
+        "url": "https://secure-inlet-42433.herokuapp.com"
       }
     },
     "locale": "en"
